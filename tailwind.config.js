@@ -6,6 +6,9 @@ module.exports = {
       fontFamily: {
 
         'Hanken-Grotesk': ['Hanken-Grotesk', 'sans-serif']
+      },
+      colors: {
+        'Lightred': 'hsl(0, 100%, 67%)'
       }
     },
   },
